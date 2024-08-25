@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "masambankiku@gmail.com",
-    "password": "samuelDeku20 ",
+    "email": "nkikumasamba36@gmail.com ",
+    "password": "masaba44 ",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,15 +18,15 @@
   },
   "adminBot": [
     "100080355760429",
-    "61552103350563"
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ʬɸʬ Sãsũkû ũchįwå ʬɸʬ",
-  "prefix": "¥",
+  "nickNameBot": "ʬɸʬ Närútõ ʬɸʬ",
+  "prefix": "£",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
